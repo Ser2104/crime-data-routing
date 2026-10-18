@@ -1,0 +1,5 @@
+• Pre-registered test of crime-aware walking routes in three unseen U.S. cities
+• Street-level crime data: 28–57% fewer recorded violent crimes for ~1 extra minute
+• Coarse categories and a simple map of past crime did about as well as the model
+• A 2-minute detour limit kept 65–80% of the crime reduction of longer detours
+• Aggregates or no crime data: about half the benefit, comparable to a simple rule

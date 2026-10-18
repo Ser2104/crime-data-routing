@@ -1,0 +1,13 @@
+[
+  {
+    "ciudad": "tempe",
+    "registros_leidos": 384814,
+    "fecha_leida": 0.9982588991045024,
+    "ubicacion_leida": 0.9995114522860394,
+    "categoria_leida": 0.4975884453268332,
+    "meses_cubiertos": 1.0,
+    "en_el_periodo": 76143,
+    "nucleo_en_el_periodo": 1932,
+    "pasa": true
+  }
+]

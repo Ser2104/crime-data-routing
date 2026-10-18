@@ -1,0 +1,14 @@
+[
+  {
+    "grupo": "holdout_main",
+    "fecha_utc": "2026-10-08T07:08:43Z",
+    "motivo": "examen formula v2, registro OSF x3z9s 2026-10-08",
+    "programa_commit": "e75e2af104aa4c2b8a2d14c05907188b5723c5b6"
+  },
+  {
+    "grupo": "holdout_tempe2",
+    "fecha_utc": "2026-10-08T21:54:10Z",
+    "motivo": "examen de reemplazo Tempe, registro OSF eb5rt 2026-10-08",
+    "programa_commit": "6f945c9ccd96108f698b10467f1148cfb5fa1402"
+  }
+]

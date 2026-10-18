@@ -1,0 +1,14 @@
+# Data are downloaded or rebuilt by the pipeline; never commit them
+data/
+cache/
+models/
+__pycache__/
+*.py[cod]
+.venv/
+# LaTeX output
+*.pdf
+!investigacion/articulo/figuras/*.pdf
+*.log
+*.aux
+*.bbl
+*.blg

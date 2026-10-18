@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "How much crime data does crime-aware pedestrian routing need? Code and results"
+type: software
+authors:
+  - family-names: "Yacolca Cueva"
+    given-names: "Sergio Alberto"
+    orcid: "https://orcid.org/0009-0002-0160-5063"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-18"
+keywords:
+  - pedestrian navigation
+  - safe routing
+  - crime risk
+  - transfer across cities
+  - pre-registration

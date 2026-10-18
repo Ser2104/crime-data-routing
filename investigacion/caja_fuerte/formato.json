@@ -1,0 +1,110 @@
+[
+  {
+    "ciudad": "Filadelfia",
+    "grupo": "holdout_main",
+    "sha256_original": "cb1b48af7dd7353409f0d4ccef439fa4be47342c230806527d706858d2f83311",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:11Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Baton Rouge",
+    "grupo": "holdout_main",
+    "sha256_original": "261b8ce867dfc8cb88d6f6c78ebd3a8328aca1c820e56f33585d3d46853b3e07",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:12Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Tempe",
+    "grupo": "holdout_main",
+    "sha256_original": "91fd10ed4819a58905926e5c9a4ac5d1f0787d7a4072365da1ad5f35a4b6df6d",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:13Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Dallas",
+    "grupo": "holdout_reserve",
+    "sha256_original": "fe10523d2d3ed73926e546904b5a9117ff82d7dd82ef7427a1fb479a353e7ad5",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:17Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "San Francisco",
+    "grupo": "holdout_reserve",
+    "sha256_original": "b4ef07a1da99e2cedc7e735310cc78d74be541dcc3cd8ed92476219be4f93525",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:20Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Boston",
+    "grupo": "holdout_reserve",
+    "sha256_original": "a7605dbc3cf80b31a107aa212dd89d993b7d97c50d8517f83c270fdcac8d58e7",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:20Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Colorado Springs",
+    "grupo": "holdout_reserve",
+    "sha256_original": "e2a7a092c34bbfec357b85845b4776cc7beaada412d1ed38401807b686fea1a1",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:22Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Austin",
+    "grupo": "holdout_zona",
+    "sha256_original": "a170a56741200d7fa73ad6f2adaa88bb4fa8a2f3e30e81458eefc806c7291b20",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:24Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Cambridge",
+    "grupo": "holdout_zona",
+    "sha256_original": "cc871d4d8a3c9120f0dbf1e52a2bc57665b8dfcea8c4d253fe14b97f0c50b988",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:24Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Somerville",
+    "grupo": "holdout_zona",
+    "sha256_original": "78fe1e5b14baf8edc82a9e8c6f0481def15a029670f1ee3f79251ec1a9aadbf6",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:25Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Los Angeles",
+    "grupo": "holdout_zona",
+    "sha256_original": "f6f4135addd35f86ec6fa5b3e5fc7b52cd1d159a7aa18f6f45628db47ed6ae8f",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-04T04:40:26Z",
+    "programa_commit": "bd0b83812348700b4aa9d6580d11b03870724374"
+  },
+  {
+    "ciudad": "Tempe",
+    "grupo": "holdout_tempe2",
+    "sha256_original": "a13ec1c716338590d30930317fb815db260210077fb1d8d30af739c78c099a9e",
+    "resultado": "OK",
+    "motivo": null,
+    "fecha_utc": "2026-10-08T20:20:57Z",
+    "programa_commit": "1ef183634779a456d9198ec6994a13f5c1c377ed"
+  }
+]

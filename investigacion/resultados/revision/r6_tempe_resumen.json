@@ -1,0 +1,15 @@
+{
+  "descripciones": 300,
+  "registros": 76143,
+  "registros_nucleo": 1932,
+  "descripciones_marcadas": 3,
+  "registros_marcados": 252,
+  "descripciones_recodificadas": 2,
+  "registros_recodificados": 249,
+  "registros_a_nucleo": 0,
+  "registros_fuera_del_nucleo": 249,
+  "recodificar": {
+    "[90D] DUI-AGGRAVATED                                                            ": "90Z",
+    "[290] AGGRAVATED CRIMINAL DAMAGE                                                ": "90Z"
+  }
+}

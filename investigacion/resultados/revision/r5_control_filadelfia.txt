@@ -1,0 +1,3 @@
+Control de R5 en Filadelfia (corrida que empezo el 2026-10-09 a las 23:18 y luego se quedo sin memoria en las rutas):
+  control: el mapa de delitos del examen se reproduce: True (diferencia maxima 5.68e-14)
+Fuente: registro revision_fila/r5.log, linea 2. Por eso no se repite (cambio 4 del plan).

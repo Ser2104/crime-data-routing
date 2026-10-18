@@ -1,0 +1,22 @@
+[
+  {
+    "ciudad": "filadelfia",
+    "registros_leidos": 596971,
+    "fecha_leida": 1.0,
+    "ubicacion_leida": 0.9697673756346623,
+    "categoria_leida": 1.0,
+    "en_el_periodo": 413305,
+    "nucleo_en_el_periodo": 31838,
+    "pasa": true
+  },
+  {
+    "ciudad": "baton_rouge",
+    "registros_leidos": 147177,
+    "fecha_leida": 1.0,
+    "ubicacion_leida": 0.8860623602872731,
+    "categoria_leida": 1.0,
+    "en_el_periodo": 67021,
+    "nucleo_en_el_periodo": 6132,
+    "pasa": true
+  }
+]

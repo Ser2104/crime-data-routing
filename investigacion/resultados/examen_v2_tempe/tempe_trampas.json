@@ -1,0 +1,25 @@
+{
+  "mapa_mezclado_rapida": {
+    "valor": 0.07367734795320763,
+    "azar": 0.1,
+    "real": 0.5754808417960366,
+    "real_supera_azar": true,
+    "regla": "mitad entre azar y real",
+    "pasa": true
+  },
+  "futuro_mezclado_rapida": {
+    "valor": 0.1214759788814972,
+    "azar": 0.15768879241402947,
+    "real": 0.5754808417960366,
+    "real_supera_azar": true,
+    "regla": "mitad entre azar y real",
+    "pasa": true
+  },
+  "mapa_mezclado_rutas": {
+    "valor": 3.2745591939546514,
+    "real": -56.88622754491017,
+    "real_reduce": true,
+    "regla": "menos de la mitad del real",
+    "pasa": true
+  }
+}

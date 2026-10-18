@@ -1,0 +1,13 @@
+ciudad,camaras,tramos_con_camara,delitos_futuros_cerca,obs_vs_esperado,ic95,tendencia_vs_similares,ic95_tendencia,vs_mismo_tipo_de_calle,ic95_mismo_tipo
+pittsburgh,lectores de placas,4702,121.0,0.42,0.28-0.57,0.58,0.40-0.75,0.63,0.46-0.76
+pittsburgh,otras camaras,7908,238.0,0.48,0.36-0.64,0.65,0.52-0.84,0.72,0.53-0.92
+chapel_hill,lectores de placas,1715,1.0,0.23,0.00-1.59,0.21,0.00-1.93,0.23,0.00-1.58
+chapel_hill,otras camaras,206,4.0,0.76,0.00-1.85,0.67,0.00-1.10,1.07,0.00-2.47
+chicago,lectores de placas,26278,1433.0,0.83,0.76-0.92,0.88,0.80-0.95,1.08,0.96-1.22
+chicago,otras camaras,30255,1598.0,0.79,0.72-0.88,0.85,0.77-0.93,0.96,0.85-1.09
+seattle,lectores de placas,3921,374.0,0.97,0.66-1.34,0.82,0.63-1.08,1.04,0.70-1.41
+seattle,otras camaras,12782,903.0,1.01,0.74-1.28,0.85,0.72-0.97,1.08,0.78-1.33
+cincinnati,lectores de placas,1320,45.0,0.55,0.37-0.90,0.67,0.45-1.07,0.73,0.49-1.37
+cincinnati,otras camaras,1941,71.0,0.24,0.16-0.34,0.39,0.28-0.52,0.32,0.23-0.40
+gainesville,lectores de placas,4368,27.0,0.37,0.23-0.54,0.41,0.25-0.58,0.5,0.33-0.75
+gainesville,otras camaras,2268,24.0,0.46,0.22-1.19,0.44,0.20-1.28,0.62,0.26-1.29

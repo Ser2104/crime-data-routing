@@ -1,0 +1,10 @@
+ciudad,variante,registros,ninguno,sin_ubicacion,lejos_de_calle,sexual,lugar_cerrado,fuera_de_ciudad,nucleo_conservados,sin_fecha
+baton_rouge,examen,67021,54379,7497,3462,749,701.0,233,4282,
+baton_rouge,lugares,67021,55080,7497,3462,749,,233,4362,
+baton_rouge,calle_100,67021,56051,7497,1784,749,707.0,233,4398,
+tempe,examen,76143,68679,183,3626,1107,1304.0,574,1736,670.0
+tempe,lugares,76143,69983,183,3626,1107,,574,1814,670.0
+tempe,calle_100,76143,70786,183,1503,1107,1320.0,574,1795,670.0
+filadelfia,examen,413305,382054,10736,6239,4425,9788.0,63,29799,
+filadelfia,lugares,413305,391842,10736,6239,4425,,63,30729,
+filadelfia,calle_100,413305,386918,10736,855,4425,10308.0,63,29989,

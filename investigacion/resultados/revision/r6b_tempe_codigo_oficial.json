@@ -1,0 +1,16 @@
+{
+  "descripciones_con_codigo": 168,
+  "registros_con_codigo": 77745,
+  "nucleo_reglas": 1932,
+  "nucleo_codigo_oficial": 1569,
+  "nucleo_en_ambos": 1481,
+  "por_clase_reglas": {
+    "agresion_grave": 1628,
+    "robo": 304
+  },
+  "por_clase_codigo_oficial": {
+    "agresion_grave": 1247,
+    "robo": 304,
+    "homicidio": 18
+  }
+}

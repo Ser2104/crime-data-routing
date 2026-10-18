@@ -1,0 +1,39 @@
+original,registros,codigo,clase_nucleo,nombra,chequeo,grupo
+[120] ROBBERY-ARMED                                                             ,174,120,robo,robo,,robo
+[120] ROBBERY-STRONG ARM                                                        ,130,120,robo,robo,,robo
+[13A] AGGRAVATED ASSAULT                                                        ,785,13A,agresion_grave,agresion_grave,,agresion_grave
+[13A] AGGRAVATED ASSAULT [DV]                                                   ,371,13A,agresion_grave,agresion_grave,,agresion_grave
+[90D] DUI-AGGRAVATED                                                            ,218,13A,agresion_grave,agresion_grave,d: agravado sin agresion,agresion_grave
+[13B] AGGRAVATED ASSAULT - OFFICER / PROFESSIONAL (MINOR/NO INJURY)             ,134,13A,agresion_grave,agresion_grave,,agresion_grave
+[13B] AGGRAVATED ASSAULT ARS DEFINED                                            ,68,13A,agresion_grave,agresion_grave,,agresion_grave
+[290] AGGRAVATED CRIMINAL DAMAGE                                                ,31,13A,agresion_grave,agresion_grave,d: agravado sin agresion,agresion_grave
+CHILD ABUSE - AGGRAVATED ASSAULT                                                ,10,13A,agresion_grave,agresion_grave,,agresion_grave
+[13A] AGGRAVATED ASSAULT - OFFICER / PROFESSIONAL (WPN/SERIOUS INJURY)          ,4,13A,agresion_grave,agresion_grave,,agresion_grave
+[0] AGGRAVATED DOMESTIC VIOLENCE [DV]                                           ,3,13A,agresion_grave,agresion_grave,d: agravado sin agresion,agresion_grave
+AGGRAVATED ASSAULT                                                              ,2,13A,agresion_grave,agresion_grave,,agresion_grave
+[13A] CHILD ABUSE/VUL ADULT - AGGRAVATED ASSAULT [DV]                           ,2,13A,agresion_grave,agresion_grave,,agresion_grave
+[GO-0] ACCIDENT - NO INJURY                                                     ,5659,,,,,sin clase del nucleo
+[13B] ASSAULT                                                                   ,4930,13B,,,,sin clase del nucleo
+[23H] THEFT OTHER                                                               ,4242,PROP,,,,sin clase del nucleo
+[23C] SHOPLIFTING                                                               ,3522,PROP,,,,sin clase del nucleo
+[GO-0] ACCIDENT - HIT AND RUN                                                   ,3461,,,,,sin clase del nucleo
+[SC-0] TRESPASS WARNING - PRIVATE PROPERTY                                      ,2949,,,,,sin clase del nucleo
+[SC-0] INFO - INFORMATION OTHER (NON-CRIMINAL)                                  ,2551,,,,,sin clase del nucleo
+[GO-0] ACCIDENT - INJURY                                                        ,2056,,,,,sin clase del nucleo
+[23F] THEFT/BURGLARY FROM VEHICLE                                               ,1965,PROP,,,,sin clase del nucleo
+[90J] TRESPASSING                                                               ,1875,,,,,sin clase del nucleo
+[35B] DRUG EQUIPMENT OFFENSE                                                    ,1566,35B,,,,sin clase del nucleo
+[90C] DISORDERLY CONDUCT                                                        ,1475,,,,,sin clase del nucleo
+[GO-0] VEHICLE IMPOUND                                                          ,1338,,,,,sin clase del nucleo
+CRIMINAL DAMAGE                                                                 ,1269,,,,,sin clase del nucleo
+[240] MOTOR VEHICLE THEFT                                                       ,1264,PROP,,,,sin clase del nucleo
+[90D] DUI-LIQUOR                                                                ,1238,,,,,sin clase del nucleo
+[90Z] CRIMINAL DAMAGE - UNDER $1000                                             ,1204,,,,,sin clase del nucleo
+[13B] ASSAULT [DV]                                                              ,1175,13B,,,,sin clase del nucleo
+,1107,,,,,sin clase del nucleo
+[GO-0] CHILD CRIMES INFORMATION                                                 ,1069,,,,,sin clase del nucleo
+[0] TRAFFIC OFFENSE - CRIMINAL                                                  ,974,,,,,sin clase del nucleo
+[35A] DRUG/NARCOTIC OFFENSE (INCL CRIMINAL MARIJUANA VIOLATIONS)                ,801,35A,,,,sin clase del nucleo
+DRUG/NARCOTIC OFFENSE                                                           ,785,35A,,,,sin clase del nucleo
+[13C] THREAT/INTIMIDATE PERSON                                                  ,777,13C,,,,sin clase del nucleo
+[GO-0] DEATH                                                                    ,739,,,,,sin clase del nucleo

@@ -1,0 +1,42 @@
+{
+  "version": "v2",
+  "fecha_utc": "2026-10-05T23:45:15Z",
+  "commit": "fd94801ee69d385b5715861f85fc7f6b0e1bee7c",
+  "carpeta_modelos": "models/multiciudad/v2",
+  "huellas": {
+    "A.json": "6b3b2f1d1a4993533e44c5a7d51a8c6d072c9346ba68add9a14b5ffdf0255d61",
+    "A.txt": "5331fddebaf2236756c7b211acc4c1c422ec3295dcde21f9c627279e7ea222da",
+    "B.json": "6b3b2f1d1a4993533e44c5a7d51a8c6d072c9346ba68add9a14b5ffdf0255d61",
+    "B.txt": "b6dc8fecbdcc0d8f29f01296e7700e652905a7ab298ee438b57b86b8dd74ddb1",
+    "C.json": "6b3b2f1d1a4993533e44c5a7d51a8c6d072c9346ba68add9a14b5ffdf0255d61",
+    "C.txt": "e3fd8ede07b86df610d1fe102331bd210a19e921f9f55d3a47f0bac667f9b25d",
+    "sin_delitos.json": "6b3b2f1d1a4993533e44c5a7d51a8c6d072c9346ba68add9a14b5ffdf0255d61",
+    "sin_delitos.txt": "e86c2a601a141d94cbe2da0f947e3687fc83e3954ff284d2a2881ff0d0f55719",
+    "solo_mapa.json": "6b3b2f1d1a4993533e44c5a7d51a8c6d072c9346ba68add9a14b5ffdf0255d61",
+    "solo_mapa.txt": "d2c6c84af6f3015a3d30f5366367ae09d4c4e45f80d7951023f22d83dd653b25",
+    "totales.json": "6b3b2f1d1a4993533e44c5a7d51a8c6d072c9346ba68add9a14b5ffdf0255d61",
+    "totales.txt": "93b53dfa1333b2ac0e9b494653e269dcf648e253ce2c03fd08dfe4a5d8fab184",
+    "zona.json": "6b3b2f1d1a4993533e44c5a7d51a8c6d072c9346ba68add9a14b5ffdf0255d61",
+    "zona.txt": "300c3b022470c128addab658ffba168e91bb98d2542167f40d7fcb8847d1b6cb"
+  },
+  "codigo": {
+    "src/multiciudad/09_examen.py": "e2d8429c24e8605c135fb1a18842b2cff94d29ab854ae48b6dbb4d5bd1104b62",
+    "src/multiciudad/preparar.py": "c81a1f654f08b4cdf3cee6c74b5a8d1c37a4a8c275bc33a8fa35d3df58767cbf",
+    "src/multiciudad/categorias.py": "5bc1279e109ad6933b582a5b6ce35acc6f990d86249eadb8a8028222b465e2a4",
+    "src/multiciudad/rasgos_delitos.py": "4aafa0c4334a16e143f36d2d9c92530acd0227cd00a1fbda854c944ab34e39f2",
+    "src/multiciudad/reparto.py": "10cb947ec20282b5c31a9e2a6c28a6f6579d08282490c41ce1d15e9baa717825",
+    "src/multiciudad/formula.py": "c9bb483d75c9917f549f05fe3b92628118180ec03665d183c5f7630d2234e2a1",
+    "src/multiciudad/calificacion.py": "dbbb8371490ddce7f7bebf8f00f06d84b7a7df8f82ab2033c6bf8faa45490ad4",
+    "src/multiciudad/evaluar_rutas.py": "a530d23ac688871e614fd88ac4694d4576e9ced00c899ba1b3868e492bc0e6ca",
+    "src/multiciudad/ciudades.py": "cec0d921a95a84a73bd8461530ffc5784c1fcafc4cd44ec737280621ae5d1742",
+    "src/rutas.py": "432b922008c46723c79e142e95ca93a3448234854a8052065d59c147758e65f9",
+    "src/riesgo_pie.py": "be1c79084e9749bb04df376924fe495e528bed82cbcfe5750252a3d2b36d5fcd",
+    "src/comun.py": "737f721139bffc2a37f883932d3b7cbadd64eb6a7fa7078dfed5fc2fe53fa03f",
+    "src/flujo.py": "2e8b8e78c68ae9c799b066d30bfef892fa7ac74a3fb1f5bf05c6f3f432900514",
+    "investigacion/caja_fuerte.py": "88a5cc492fbd51b87dd370a64d0041d3cece7dfb6f0d6092b55878c1920cf4ae",
+    "investigacion/protocolo.md": "2a26f9e6387d4e7d0b24e0314e340a5e5e8a3048a79a1414084cdae7a2b6162b",
+    "investigacion/preregistro.md": "bd86546b79fa0671b1a7d54ef938c57e802a2d0ac37489dd9f40bddfead9908f",
+    "investigacion/reglas_de_datos.md": "04f31fbbcc0f3083f86465dd2e149f926d9d65ffa0decaa74452578074e631da"
+  },
+  "nota": "Modelos entrenados solo con las ciudades de aprender (Pittsburgh, Chapel Hill, Chicago, Seattle), los mismos evaluados en la practica v2 (investigacion/registro_practica.md)."
+}

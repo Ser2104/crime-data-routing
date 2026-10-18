@@ -1,0 +1,4 @@
+ciudad,tramos,consultas,mediana_s,p95_s,procesador,sistema
+filadelfia,194957,200,0.8672080000396818,1.7195681099663485,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",Windows-11-10.0.26200-SP0
+baton_rouge,49540,200,0.28583740000613034,0.6346881400007988,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",Windows-11-10.0.26200-SP0
+tempe,70028,200,0.5037490500253625,1.0757635350222696,"Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",Windows-11-10.0.26200-SP0

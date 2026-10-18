@@ -1,0 +1,19 @@
+{
+  "mapa_mezclado_rapida": {
+    "valor": 0.10136469949770015,
+    "azar": 0.1,
+    "real": 0.42554756322297305,
+    "pasa": true
+  },
+  "futuro_mezclado_rapida": {
+    "valor": 0.12048957468915186,
+    "azar": 0.12385930534965914,
+    "real": 0.42554756322297305,
+    "pasa": true
+  },
+  "mapa_mezclado_rutas": {
+    "valor": 2.1629416005767954,
+    "real": -36.14043139054613,
+    "pasa": true
+  }
+}
