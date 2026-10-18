@@ -2,6 +2,7 @@
 
 Code, aggregated results and study documents of the paper *How much crime data does crime-aware pedestrian routing need? A pre-registered evaluation in cities a model has never seen* (Sergio Alberto Yacolca Cueva; submitted to *Transportation Research Part C: Emerging Technologies*).
 
+- **Archived release:** [doi.org/10.5281/zenodo.23446917](https://doi.org/10.5281/zenodo.23446917) (Zenodo).
 - **Pre-registrations:** [osf.io/x3z9s](https://osf.io/x3z9s) (main exam) and [osf.io/eb5rt](https://osf.io/eb5rt) (Tempe replacement exam).
 - **License:** MIT (see `LICENSE`).
 - **Status:** research code of a non-commercial prototype; the author receives no income from it.
